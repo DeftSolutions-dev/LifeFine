@@ -4,7 +4,7 @@
 {  
  "newsitems": [ 
  {  
- "contents": "{
+ "f": "{
 	
 	"RustClient_Data/Managed/Accessibility.dll":"81316761de0ed23480bfb81b64566a54",
 	"RustClient_Data/Managed/ApexAI.dll":"ec4327c1ce10dd142d40f0e7fdb68c52",
