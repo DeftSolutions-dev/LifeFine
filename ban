@@ -39,7 +39,7 @@
 	"RustClient_Data/Managed/Mono.WebBrowser.dll":"0acd4630aecd4d297742f54ae8ad5c32",
 	"RustClient_Data/Managed/mscorlib.dll":"9521215cf41d5bd2d841fa796077fb21",
 	"RustClient_Data/Managed/NewAssembly.dll":"d881acd73157802ef1bf45228676b639",
-	"RustClient_Data/Managed/Newtonsoft.Json.dll":"29082a1c7e42f90a795cf37348dde591",
+	"RustClient_Data/Managed/Newtonsoft.Json.dll":"c084c469f9a22e13d2ee636e1172a278",
 	"RustClient_Data/Managed/Novell.Directory.Ldap.dll":"42a906b3c31d13ded0cf404558a0e627",
 	"RustClient_Data/Managed/protobuf-net.dll":"67611455f7bf2e9108ff44fdf128aca5",
 	"RustClient_Data/Managed/Rust.Data.dll":"63583295c75c5ed09c45aa626b5c311c",
