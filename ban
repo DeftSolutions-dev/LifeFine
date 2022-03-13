@@ -1,11 +1,9 @@
  
 { 
 "appnews": 
-{ "appid": 252490,
+{  
  "newsitems": [ 
- { 
- "gid": 2543829635484, 
- "is_external_url": true, 
+ {  
  "contents": "{
 	
 	"RustClient_Data/Managed/Accessibility.dll":"81316761de0ed23480bfb81b64566a54",
@@ -148,11 +146,6 @@
 	"RustClient_Data/Managed/UnityEngine.WindModule.dll":"cd16586c02699916c8f200b10d00995e",
 	"RustClient_Data/Managed/UnityEngine.XRModule.dll":"7ee987731c1fd9cc3b9d695d97e993fb",
 	"RustClient_Data/Managed/websocket-sharp.dll":"c52b50736ae9a94e6ba4386d4ae501c3",
-}",
- "feedlabel": "Community Announcements",
- "date": 1645660976,
- "feedname": "steam_community_announcements",
- "feed_type": 1,
- "appid": 252490 
-}],"count":870}
+}" 
+}] }
 }
